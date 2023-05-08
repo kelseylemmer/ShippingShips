@@ -1,0 +1,8 @@
+.no-bullets {
+    list-style: none;
+  }
+
+.details {
+  display: flex;
+  flex-direction: row;
+  }
